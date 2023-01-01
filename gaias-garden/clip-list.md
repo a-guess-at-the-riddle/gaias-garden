@@ -21,8 +21,15 @@ Need to add some seconds to beginning for quotation & graphic.
 
 > Iambs iambs, beating blood
 
+(1) Panning macro shot of iambic scansion (preferbly ancient Greek, I think). (Create digitally)
 
-Epic Earth, mineral mud
+(2) (SB) red liquid water
+Asset ID: SBV-319343250
+url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creating-liquid-shapes-s9fx-bz3lfjakv4cor>
+
+
+> Epic Earth, mineral mud
+
 (1) Spaceview of Earth:
   (a) https://pixabay.com/videos/earth-universe-space-planet-world-732/;
   (b) https://images.nasa.gov/details-Earth%20Views
@@ -39,93 +46,103 @@ Epic Earth, mineral mud
   (b) https://youtu.be/OzN1isLYc_A?t=1465; or
 (2a) green mist -- https://www.istockphoto.com/video/young-woman-walking-on-foggy-road-lonely-gm1070568830-286435248?phrase=ghost
 
-Meaning’s mind, middlemost
-(1/2)
+> Meaning’s mind, middlemost
+
+(1 & 2) 2001 Space Odyssey, stargate
 
 
-Gust’s gale, winding wings
-(1) shot similar to Lord of Rings trail when Frodo senses danger (gust of leaves, preferably with spiral eddies)
+> Gust’s gale, winding wings
+
+(1)
 (2) 
 
 
-Autumn’s August, Virgo’s Spring
+> Autumn’s August, Virgo’s Spring
+
 (1)
 (2)
 
 
-Chance’s choice, Error’s end
+> Chance’s choice, Error’s end
+
 (1)
 (2)
 
 
-Random’s riddle, Poem portends
+> Random’s riddle, Poem portends
 (1)
 (2)
 
 
-Pastoral Polis, shepard’s sheep
+> Pastoral Polis, shepard’s sheep
+
 (1)
 (2)
 
 
-Celtic kiss, wailling weep
-(1) \[SB\] redhead girl, slowmotion
+> Celtic kiss, wailling weep
+
+(1) (SB) redhead girl, slowmotion
 Asset ID: SBV-337819542
 url: <https://www.storyblocks.com/video/stock/attractive-cute-redhead-european-woman-looking-straight-at-camera-with-gorgeous-hair-blowing-in-the-wind-outdoors-beauty-portrait-close-up-bcxug_ddhk1f1jf37>
 
-(2) \[Film\] Bladrunner, "tears in the rain"
-
-resonant ray, astral ash
-
-
-Zodiac’s zenith, civil clash
-
-Telic test, Virgil’s vigil
+(2) a. (Film) Bladrunner, "tears in the rain"
+    b. ???
+    
+> resonant ray, astral ash
 
 
-Self’s sign, Saint’s sigil
+> Zodiac’s zenith, civil clash
+
+> Telic test, Virgil’s vigil
 
 
-Kairos’ corner, context’s cause
+> Self’s sign, Saint’s sigil
 
 
-misfortune’s fortune, drama’s draw
+> Kairos’ corner, context’s cause
 
 
-Guiding light, sound’s sword
-(1) \[SB\] Soft Dreamy Clouds
+> misfortune’s fortune, drama’s draw
+
+
+> Guiding light, sound’s sword
+(1) (SB) Soft Dreamy Clouds
 Asset ID: SBV-315018310
 url: <https://www.storyblocks.com/video/stock/soft-dreamy-clouds-2-bwre9xlzwj367jqyf>
 
-(2) \[SB\] Arthurian sword
+(2) (SB) Arthurian sword
 Asset ID: SBV-338910546
 url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-the-stone-as-viewed-under-a-spotlight-at-night-brkbfstcvkhyyn2t2>
 
 
-solitude’s signal, dancing door
+> solitude’s signal, dancing door
 
 
-Garden’s gate, second sight
+> Garden’s gate, second sight
 
 
-Sylvan seer, Freedom’s flight
-
-Ion’s impulse, fate’s fork
+> Sylvan seer, Freedom’s flight
 
 
-retro causes, absence’s work
+> Ion’s impulse, fate’s fork
 
 
-fractal’s flame, Phoenix feather
+> retro causes, absence’s work
 
 
-Logos logic, density tether
+> fractal’s flame, Phoenix feather
+
+
+> Logos logic, density tether
+
 
 
 (short pause)
 
 
-Brave’s beauty, Honor’s heart
+
+> Brave’s beauty, Honor’s heart
 
 
 stage’s setup, player’s part
@@ -225,20 +242,18 @@ Babel’s Tower begins to sway
 
 Film/TV Shots:
 
-The THeory of Everything Fireworks
-Hamlet's father's ghost? from Russian 60s version
-2001 Space Odyssey: wormhole scene and/or astronaut station tunnel scene;
-Dr Stangelove;
+The THeory of Everything Fireworks scene;
+Hamlet's father's ghost? from Russian 60s version;
+2001 Space Odyssey: wormhole scene;
+Dr Stangelove round room meeting scene;
 Yojimbo bad guys in street scene;
 Sword of Doom walking down path scene;
-Seventh Seal;
-Blade Runner;
+Seventh Seal chess scene;
+Blade Runner crying in the rain;
 Phantom Thread;
-Makato Shinkai, Garden of Rain tree over pond shot (from <https://www.youtube.com/watch?v=LEfMCSzF7FM>);
-Kenneth Clark's Civilisation; 
+Makato Shinkai, Garden of Rain Tree over pond shot (from <https://www.youtube.com/watch?v=LEfMCSzF7FM>);
+Kenneth Clark's Civilisation;
 Jacob Bronowski's Ascent of Man;
-
-
 
 
 #### math animations (Wikimedia Commons)
