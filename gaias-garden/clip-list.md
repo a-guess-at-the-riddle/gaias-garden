@@ -15,7 +15,7 @@ Need to add some seconds to beginning for quotation & graphic.
 [0s — 13s] (music)
 
 [@13s]
-Iambs iambs, beating blood 
+Iambs iambs, beating blood
 
 
 
@@ -23,7 +23,9 @@ Epic Earth, mineral mud
 (1) Spaceview of Earth:
   (a) https://pixabay.com/videos/earth-universe-space-planet-world-732/;
   (b) https://images.nasa.gov/details-Earth%20Views
-(2) Mud macro shot
+(2) Mud macro shot \[SB\]
+    Asset ID: SBV-337534278
+    url: <https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80>
 
 
 Garden’s green, Gaia’s ghost
@@ -77,8 +79,15 @@ Kairos’ corner, context’s cause
 
 misfortune’s fortune, drama’s draw
 
-[@1:01]
+
 Guiding light, sound’s sword
+(1) \[SB\] Soft Dreamy Clouds
+Asset ID: SBV-315018310
+url: <https://www.storyblocks.com/video/stock/soft-dreamy-clouds-2-bwre9xlzwj367jqyf>
+
+(2) \[SB\] Arthurian sword
+Asset ID: SBV-338910546
+url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-the-stone-as-viewed-under-a-spotlight-at-night-brkbfstcvkhyyn2t2>
 
 
 solitude’s signal, dancing door
@@ -103,7 +112,7 @@ Logos logic, density tether
 
 (short pause)
 
-[@1:31]
+
 Brave’s beauty, Honor’s heart
 
 
@@ -127,7 +136,7 @@ Aura’s ambience, charisma’s charm
 
 Moon’s marvel, Sun’s farm
 
-[@1:55]
+
 Wonder’s worry, Past’s pain
 
 
@@ -152,7 +161,6 @@ Wisdom’s Way, the grasp of Grace
 Trust’s fall, Moron’s mobs
 
 
-[@2:19]
 Daemon that does warp my Will
 
 
@@ -163,6 +171,7 @@ venture out across the Land
 
 
 usher forth Ascent of Man
+
 
 Whisper courage in His ear
 
@@ -224,17 +233,18 @@ Jacob Bronowski's Ascent of Man;
 #### Ideas for math animations
 - Gaussian;
 - Law of Large Numbers;
-- Central Limit Thm
-- 
+- Central Limit Thm;
+ 
 **Galton Board**:
 - url: <https://en.wikipedia.org/wiki/File:Galton_box.webm>
 - Permission: CC-BY-SA 4.0 (as metadata). Please attribute as Matemateca (IME/USP)/Rodrigo Tetsuo Argenton. This file was published as the result of a partnership between Matemateca (IME/USP), the RIDC NeuroMat and the Wikimedia Community User Group Brasil
-- 
-- Logistic Map
+
+- Bifurcation: Brad Smith <https://www.youtube.com/watch?v=-l12chlb31M> @Sakanakao
 - S-curve
 - Quantum double split
-- Erdos-Renyi theorem on graphs
-- Per Bak's self-organized critcality
+- Chaos Game: <https://commons.wikimedia.org/wiki/File:Tetrahedron_chaos_game.gif>
+- Geometric Inversion: <https://commons.wikimedia.org/wiki/File:Inversion_of_lambda_Mandelbrot_set_with_different_translations.gif>
+- Mandelbrot Zoom: <https://commons.wikimedia.org/wiki/File:Mandelbrotzoom_Wiki_h265_CRF04_20210412_006GANZ.webm>
 
 
 Still images of interest (Paintings & Illustrations...)
