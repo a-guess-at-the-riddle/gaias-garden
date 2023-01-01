@@ -28,8 +28,10 @@ An animation of illustration of Linneaus' Flowerclock which transitions clockwis
 #### Possible freelance artists:
 **Alegria**: https://dribbble.com/Alegria/about
 
+**alom3d**: https://www.pond5.com/artist/alom3d
+
 **Camilledy**: <https://www.fiverr.com/camilledy/animate-your-wedding-monogram-or-logo?context_referrer=search_gigs&source=top-bar&ref_ctx_id=35ec76532f42bb290e71360c4882a32c&pckg_id=1&pos=2&context_type=auto&funnel=35ec76532f42bb290e71360c4882a32c&imp_id=ea89585f-1841-4137-8479-6e5be74e8ca1>
 
 ## 4. Media
 
-**See other file for stock shotlist
+***See other file for stock shotlist***
