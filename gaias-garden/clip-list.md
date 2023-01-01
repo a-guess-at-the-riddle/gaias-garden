@@ -1,10 +1,16 @@
+Some Stock Resources:
+Free: Unsplash, StockSnap, Pexels, Pixabay
+Paid: Storyblocks, Motionarray, Artgrid, Shutterstock, iStock (Getty Images), Voices (voice actors)
+
+(Storyblocks, Pixabay, Shutterstock)
+
 ## Clip List
 
 **Shotlist**
 
 Need to add some seconds to beginning for quotation & graphic.
 
->“How this creative energy could itself have been born is of all mysteries the most incomprehensible. It is the inevitable impossibility inherent in any speculation which would develop everything out of nothing.” — Benjamin Peirce, Ideality in the Physical Sciences (1881)
+> “How this creative energy could itself have been born is of all mysteries the most incomprehensible. It is the inevitable impossibility inherent in any speculation which would develop everything out of nothing.” — Benjamin Peirce, Ideality in the Physical Sciences (1881)
 
 [0s — 13s] (music)
 
