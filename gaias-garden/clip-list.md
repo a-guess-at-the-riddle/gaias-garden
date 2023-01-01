@@ -15,9 +15,7 @@ Need to add some seconds to beginning for quotation & graphic.
 [0s — 13s] (music)
 
 [@13s]
-Iambs iambs, beating blood
-(1) Spectrogram -- https://musiclab.chromeexperiments.com/spectrogram/
-(2) Heart Monitor -- https://pixabay.com/videos/search/pulse/?manual_search=1&cat=None; 
+Iambs iambs, beating blood 
 
 
 
@@ -224,7 +222,14 @@ Jacob Bronowski's Ascent of Man;
 
 
 #### Ideas for math animations
-- Gaussian, Law of Large Numbers, Central Limit Thm, Galton Board
+- Gaussian;
+- Law of Large Numbers;
+- Central Limit Thm
+- 
+**Galton Board**:
+- url: <https://en.wikipedia.org/wiki/File:Galton_box.webm>
+- Permission: CC-BY-SA 4.0 (as metadata). Please attribute as Matemateca (IME/USP)/Rodrigo Tetsuo Argenton. This file was published as the result of a partnership between Matemateca (IME/USP), the RIDC NeuroMat and the Wikimedia Community User Group Brasil
+- 
 - Logistic Map
 - S-curve
 - Quantum double split
