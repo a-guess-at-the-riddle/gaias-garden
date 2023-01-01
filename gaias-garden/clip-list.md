@@ -2,7 +2,11 @@ Some Stock Resources:
 Free: Unsplash, StockSnap, Pexels, Pixabay
 Paid: Storyblocks, Motionarray, Artgrid, Shutterstock, iStock (Getty Images), Voices (voice actors)
 
-(Storyblocks, Pixabay, Shutterstock)
+**using**:
+
+- Storyblocks (yr subscription);
+- Pixabay (free);
+- Shutterstock (5 video pkg purchase)
 
 ## Clip List
 
@@ -10,13 +14,12 @@ Paid: Storyblocks, Motionarray, Artgrid, Shutterstock, iStock (Getty Images), Vo
 
 Need to add some seconds to beginning for quotation & graphic.
 
+(opening shot drone sand)
 > “How this creative energy could itself have been born is of all mysteries the most incomprehensible. It is the inevitable impossibility inherent in any speculation which would develop everything out of nothing.” — Benjamin Peirce, Ideality in the Physical Sciences (1881)
 
-[0s — 13s] (music)
+(0s — 13s) (music)
 
-[@13s]
 Iambs iambs, beating blood
-
 
 
 Epic Earth, mineral mud
@@ -24,8 +27,8 @@ Epic Earth, mineral mud
   (a) https://pixabay.com/videos/earth-universe-space-planet-world-732/;
   (b) https://images.nasa.gov/details-Earth%20Views
 (2) Mud macro shot \[SB\]
-    Asset ID: SBV-337534278
-    url: <https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80>
+    Asset ID: SBV-337534175
+    url: <[https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80]>
 
 
 Garden’s green, Gaia’s ghost
@@ -65,7 +68,15 @@ Pastoral Polis, shepard’s sheep
 
 
 Celtic kiss, wailling weep
+(1) \[SB\] redhead girl, slowmotion
+Asset ID: SBV-337819542
+url: <https://www.storyblocks.com/video/stock/attractive-cute-redhead-european-woman-looking-straight-at-camera-with-gorgeous-hair-blowing-in-the-wind-outdoors-beauty-portrait-close-up-bcxug_ddhk1f1jf37>
+
+(2) \[Film\] Bladrunner, "tears in the rain"
+
 resonant ray, astral ash
+
+
 Zodiac’s zenith, civil clash
 
 Telic test, Virgil’s vigil
@@ -213,6 +224,7 @@ Babel’s Tower begins to sway
 
 Film/TV Shots:
 
+The THeory of Everything Fireworks
 Hamlet's father's ghost? from Russian 60s version
 2001 Space Odyssey: wormhole scene and/or astronaut station tunnel scene;
 Dr Stangelove;
