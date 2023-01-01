@@ -9,13 +9,14 @@ My preferences is for either macrophotography or dynamic (dolly, steadycam, dron
 
 Actors with Iconic Voices:
 
-Men: William Defoe, John Rhys-Davies, Ralph Fiennes, Jeremy Irons, Derek Jacobi, Robert Pattinson, Brian Blessed, Ben Kingsly, Alan Bates, John Gielgud, Steven Fry, Kenneth Branagh, Liam Neeson, Pierce Brosnan, Tom Hardy, James McAvoy, Cilian Murphy, Colin Farrell, Timothee Chalamet, 
+Men: William Defoe, John Rhys-Davies, Ralph Fiennes, Jeremy Irons, Derek Jacobi, Oliver Álain Christie, Robert Pattinson, Brian Blessed, Ben Kingsly, Alan Bates, John Gielgud, Steven Fry, Kenneth Branagh, Liam Neeson, Pierce Brosnan, Tom Hardy, James McAvoy, Cilian Murphy, Colin Farrell, Timothee Chalamet, 
 (non-actors) John Butler
 
 Women: Mia Goth, Keira Knightley, Felicity Jones, Carey Mulligan, Evanna Lynch, Mia Wasikowska, Judi Dench, Kate Winslet
 
-Voice actors.
-Freelance: Zach Hoffman
+#### Freelance Voice actors.
+##### Voices.com
+- Zach Hoffman <https://www.voices.com/profile/zachhoffmanvoice>
 
 
 ## Necessary novel content
