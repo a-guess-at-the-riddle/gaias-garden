@@ -231,33 +231,31 @@ Film/TV Shots:
 
 Hamlet's father's ghost? from Russian 60s version
 2001 Space Odyssey: wormhole scene and/or astronaut station tunnel scene;
-Dr Stangelove
+Dr Stangelove;
 Yojimbo bad guys in street scene;
-Sword of Doom walking down path scene
-Seventh Seal
-Blade Runner?
-P T Anderson?
-Makato Shinkai:
-Kenneth Clark's Civilisation: 
-Jacob Bronowski's Ascent of Man
+Sword of Doom walking down path scene;
+Seventh Seal;
+Blade Runner;
+Phantom Thread;
+Makato Shinkai;
+Kenneth Clark's Civilisation; 
+Jacob Bronowski's Ascent of Man;
 
 
-Anime see: M. Shinkai montage: https://www.youtube.com/watch?v=LEfMCSzF7FM
-
-see https://www.youtube.com/playlist?list=PLbeLik8ghlUQmo4UvmTZr1lQpbfti9gYv
-
-
-Math Animations:
-Gaussian, Law of Large Numbers, Central Limit Thm, Galton Board
-Logistic Map
-S-curve
-Quantum Double Split'
-Erdos Renyi
-self organized critcality
+- for M. Shinkai see montage: https://www.youtube.com/watch?v=LEfMCSzF7FM (this could be its own things all by itself! but copyright worries)
 
 
 
-Images of interest (Paintings & Illustrations...)
+#### Ideas for math animations
+- Gaussian, Law of Large Numbers, Central Limit Thm, Galton Board
+- Logistic Map
+- S-curve
+- Quantum double split
+- Erdos-Renyi theorem on graphs
+- Per Bak's self-organized critcality
+
+
+Still images of interest (Paintings & Illustrations...)
 (also resolution/size issues?)
 - tree diagram from M. Pageaeu's *The Languge of Creation*
 - 
