@@ -230,21 +230,23 @@ Jacob Bronowski's Ascent of Man;
 
 
 
-#### Ideas for math animations
-- Gaussian;
-- Law of Large Numbers;
-- Central Limit Thm;
+#### math animations (Wikimedia Commons)
  
 **Galton Board**:
 - url: <https://en.wikipedia.org/wiki/File:Galton_box.webm>
-- Permission: CC-BY-SA 4.0 (as metadata). Please attribute as Matemateca (IME/USP)/Rodrigo Tetsuo Argenton. This file was published as the result of a partnership between Matemateca (IME/USP), the RIDC NeuroMat and the Wikimedia Community User Group Brasil
+- Permissions: CC-BY-SA 4.0 (as metadata). Please attribute as Matemateca (IME/USP)/Rodrigo Tetsuo Argenton. This file was published as the result of a partnership between Matemateca (IME/USP), the RIDC NeuroMat and the Wikimedia Community User Group Brasil
 
-- Bifurcation: Brad Smith <https://www.youtube.com/watch?v=-l12chlb31M> @Sakanakao
-- S-curve
-- Quantum double split
-- Chaos Game: <https://commons.wikimedia.org/wiki/File:Tetrahedron_chaos_game.gif>
-- Geometric Inversion: <https://commons.wikimedia.org/wiki/File:Inversion_of_lambda_Mandelbrot_set_with_different_translations.gif>
-- Mandelbrot Zoom: <https://commons.wikimedia.org/wiki/File:Mandelbrotzoom_Wiki_h265_CRF04_20210412_006GANZ.webm>
+**Chaos Game**:
+- url: <https://commons.wikimedia.org/wiki/File:Tetrahedron_chaos_game.gif>
+- Permissions: Author: Antoine Lasfargeas; This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. (https://commons.wikimedia.org/wiki/File:Tetrahedron_chaos_game.gif#Licensing)
+
+**Geometric Inversion**:
+- url: <https://commons.wikimedia.org/wiki/File:Inversion_of_lambda_Mandelbrot_set_with_different_translations.gif>
+- Permissions: This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
+
+**Mandelbrot Zoom**:
+- url: <https://commons.wikimedia.org/wiki/File:Mandelbrotzoom_Wiki_h265_CRF04_20210412_006GANZ.webm>
+- Permissions: This file is made available under the Creative Commons CC0 1.0 Universal Public Domain Dedication. (https://commons.wikimedia.org/wiki/File:Mandelbrotzoom_Wiki_h265_CRF04_20210412_006GANZ.webm#Licensing)
 
 
 Still images of interest (Paintings & Illustrations...)
