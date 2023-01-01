@@ -21,11 +21,26 @@ Need to determine if two shots per line is too fast or not.
 
 
 ## 3. Animation
-Die BlumenUhr, Linnaeus' flower clock (1751) <https://academic.oup.com/plphys/article/121/1/9/6085529>
+#### A. Die BlumenUhr, Linnaeus' flower clock (1751)
 
-An animation of illustration of Linneaus' Flowerclock which transitions clockwise from B&W into color while flowers bloom.
+from <https://academic.oup.com/plphys/article/121/1/9/6085529>
 
-#### Possible freelance artists:
+Original drawing by Ursula Schleicher-Benz. From Lindauer Bilderbogen no. 5, edited by Friedrich Boer. Jan Thorbecke Verlag. Sigmaringen, West Germany.
+
+An animation of illustration of Linneaus' Flowerclock (or a similar flowerclocks) which transitions clockwise from B&W into color while flowers bloom. Concerning the actual original illustration, the copywrite is difficult to understand. The original source of the image being from what I think is a Swedish journal. Here is the citation: *Lindauer Bilderbogenno.5, ed. Friedrich Boer (Jan ThorbeckeVerlag)*.
+
+If one want some ideas you can upload the iamge to the generate AI, DALL-E and it will generate some variations. THe flower should bloom starting close the the outside and bloom inward toward the center.
+
+#### B. Orpheus Descending into Hades (15th-16th Cent)
+
+<https://www.nga.gov/collection/art-object-page.44054.html>
+
+Permissions: Public Domain: "This image is in the public domain.", <https://www.nga.gov/notices/open-access-policy.html>
+
+Create a glimmering fire reflection on the medalion.
+
+
+#### Possible freelance graphical/animation artists:
 **Alegria**: https://dribbble.com/Alegria/about
 
 **alom3d**: https://www.pond5.com/artist/alom3d
