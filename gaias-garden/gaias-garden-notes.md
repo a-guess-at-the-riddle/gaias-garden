@@ -1,4 +1,6 @@
-**Music**
+####Music
+
+
 Music track is “Felicity” by Scott Buckley — www.scottbuckley.com.au. See <https://www.scottbuckley.com.au/library/felicity/>
 
 My preferences is for either macrophotography or dynamic (dolly, steadycam, drone) shots.
@@ -17,6 +19,8 @@ Freelance: Zach Hoffman
 
 
 **Necessary novel content**
+
+
 An animation of illustration of Linneaus' Flowerclock which transitions clockwise from B&W into color while flowers bloom (research copyright of image).
 
 
