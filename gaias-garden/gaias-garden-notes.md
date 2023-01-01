@@ -7,7 +7,7 @@ My preferences is for either macrophotography or dynamic (dolly, steadycam, dron
 
 ## Some notes on voice actor style preferences 
 
-Actors with Iconic Voices:
+#### Actors with Iconic Voices:
 
 Men: William Defoe, John Rhys-Davies, Ralph Fiennes, Jeremy Irons, Derek Jacobi, Oliver Álain Christie, Robert Pattinson, Brian Blessed, Ben Kingsly, Alan Bates, John Gielgud, Steven Fry, Kenneth Branagh, Liam Neeson, Pierce Brosnan, Tom Hardy, James McAvoy, Cilian Murphy, Colin Farrell, Timothee Chalamet, 
 (non-actors) John Butler
