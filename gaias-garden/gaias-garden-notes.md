@@ -1,11 +1,11 @@
-####Music
+#### Music
 
 
 Music track is “Felicity” by Scott Buckley — www.scottbuckley.com.au. See <https://www.scottbuckley.com.au/library/felicity/>
 
 My preferences is for either macrophotography or dynamic (dolly, steadycam, drone) shots.
 
-*Some notes on voice actor style preferences* 
+## Some notes on voice actor style preferences 
 
 Actors with Iconic Voices:
 
@@ -18,8 +18,7 @@ Voice actors.
 Freelance: Zach Hoffman
 
 
-**Necessary novel content**
-
+## Necessary novel content
 
 An animation of illustration of Linneaus' Flowerclock which transitions clockwise from B&W into color while flowers bloom (research copyright of image).
 
@@ -258,15 +257,16 @@ self organized critcality
 
 
 
-List of Images (Paintings & Illustrations...
-- Mattheiu Pageau book cover
+Images of interest (Paintings & Illustrations...)
+(also resolution/size issues?)
+- tree diagram from M. Pageaeu's *The Languge of Creation*
 - 
 
 
 
 Timestamps:
 
-Gaia’s Garden (Daemon Song)*
+**Gaia’s Garden (Daemon Song)**
 
 [0s — 13s]
 
