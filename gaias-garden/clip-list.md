@@ -19,7 +19,7 @@ Need to add some seconds to beginning for quotation & graphic.
 
 (0s — 13s) (music)
 
-Iambs iambs, beating blood
+> Iambs iambs, beating blood
 
 
 Epic Earth, mineral mud
@@ -31,7 +31,8 @@ Epic Earth, mineral mud
     url: <[https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80]>
 
 
-Garden’s green, Gaia’s ghost
+> Garden’s green, Gaia’s ghost
+
 (1) dynamic green garden
 (2) ???: ... maybe Ghost scene from Hamlet?:
   (a) https://www.youtube.com/watch?v=tsPPI_7x1dk;
@@ -233,12 +234,10 @@ Sword of Doom walking down path scene;
 Seventh Seal;
 Blade Runner;
 Phantom Thread;
-Makato Shinkai;
+Makato Shinkai, Garden of Rain tree over pond shot (from <https://www.youtube.com/watch?v=LEfMCSzF7FM>);
 Kenneth Clark's Civilisation; 
 Jacob Bronowski's Ascent of Man;
 
-
-- for M. Shinkai see montage: https://www.youtube.com/watch?v=LEfMCSzF7FM (this could be its own things all by itself! but copyright worries)
 
 
 
@@ -263,7 +262,7 @@ Jacob Bronowski's Ascent of Man;
 
 Still images of interest (Paintings & Illustrations...)
 (also resolution/size issues?)
-- tree diagram from M. Pageaeu's *The Languge of Creation*
+- tree diagram from M. Pageaeu's *The Languge of Creation* (maybe another animation?)
 - 
 
 
@@ -277,7 +276,7 @@ Timestamps:
 [@13s]
 Iambs iambs, beating blood
 Epic Earth, mineral mud
-Garden’s green, Gaia’s ghost
+Garden’s green, Gaia’s 
 Meaning’s mind, middlemost
 
 [@25s]
