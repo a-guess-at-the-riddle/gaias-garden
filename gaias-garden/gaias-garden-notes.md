@@ -39,6 +39,8 @@ Permissions: Public Domain: "This image is in the public domain.", <https://www.
 
 Create a glimmering fire reflection on the medalion.
 
+#### C. Tree icon from M. Pageaeu's *The Languge of Creation* 
+
 
 #### Possible freelance graphical/animation artists:
 **Alegria**: https://dribbble.com/Alegria/about
