@@ -6,7 +6,7 @@ Paid: Storyblocks, Motionarray, Artgrid, Shutterstock, iStock (Getty Images), Vo
 
 - Storyblocks (yr subscription);
 - Pixabay (free);
-- Shutterstock (5 video pkg purchase)
+- Shutterstock (1 free video w trial)
 
 ## Clip List
 
