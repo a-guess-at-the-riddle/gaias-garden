@@ -2,7 +2,7 @@ Some Stock Resources:
 Free: Unsplash, StockSnap, Pexels, Pixabay
 Paid: Storyblocks, Motionarray, Artgrid, Shutterstock, iStock (Getty Images), Voices (voice actors)
 
-**using**:
+**currently using**:
 
 - Storyblocks (yr subscription);
 - Pixabay (free);
@@ -370,15 +370,35 @@ url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-th
 
 > Pride’s prince, Shiva’s flame
 
-(1)
+1.
+service:
+media type:
+resolution:
+duration:
+url:
+permissions:
 
-(2)
+2. Liquid Yellow Paint
+service: pixabay
+media type: MP4
+resolution:	1920×1080
+duration:	0:24
+url: <https://pixabay.com/videos/yellow-liquid-paint-space-27803/>
+permissions: Pixabay License, "Free to use under the Pixabay license. No attribution required."
 
 > “Here be Dragons”, as they say
 
-(1)
+1.
+service:
+media type:
+resolution:
+duration:
+url:
+permissions:
 
 (2)
+
+---
 
 > Babel’s Tower begins to sway
 
