@@ -21,8 +21,7 @@ Need to add some seconds to beginning for quotation & graphic.
 
 > Iambs iambs, beating blood
 
-(1) Panning macro shot of iambic scansion (preferbly ancient Greek, I think). (Create digitally)
-
+(1) 
 (2) (SB) red liquid water
 Asset ID: SBV-319343250
 url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creating-liquid-shapes-s9fx-bz3lfjakv4cor>
@@ -30,21 +29,34 @@ url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creat
 
 > Epic Earth, mineral mud
 
-(1) Spaceview of Earth:
-  (a) https://pixabay.com/videos/earth-universe-space-planet-world-732/;
-  (b) https://images.nasa.gov/details-Earth%20Views
-(2) Mud macro shot (SB)
-    Asset ID: SBV-337534175
+1. View of Earth from Space  
+service: pixabay  
+asset id: n/a
+media type: MP4  
+resolution: 1280×720  
+duration: 0:20  
+url: <https://pixabay.com/videos/earth-universe-space-planet-world-732/>  
+permissions: Pixabay License. Free to use under the Pixabay license. No attribution required  
+ 
+
+2. Mud
+service: storyblocks  
+Asset ID: SBV-337534175
     url: <[https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80]>
+
+
+---
 
 
 > Garden’s green, Gaia’s ghost
 
-(1) dynamic green garden
-(2) ???: ... maybe Ghost scene from Hamlet?:
-  (a) https://www.youtube.com/watch?v=tsPPI_7x1dk;
-  (b) https://youtu.be/OzN1isLYc_A?t=1465; or
-(2a) green mist -- https://www.istockphoto.com/video/young-woman-walking-on-foggy-road-lonely-gm1070568830-286435248?phrase=ghost
+(1) Makato Shinkai, The Garden of Rain, tree over pond shot
+  url: <https://www.youtube.com/watch?v=LEfMCSzF7FM>
+
+(2) Ghost scene from Hamlet:
+  url: <https://youtu.be/OzN1isLYc_A?t=1465>
+
+---
 
 > Meaning’s mind, middlemost
 
@@ -372,6 +384,7 @@ url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-th
 
 1.
 service:
+asset id: n/a  
 media type:
 resolution:
 duration:
@@ -380,6 +393,7 @@ permissions:
 
 2. Liquid Yellow Paint  
 service: pixabay  
+asset id: n/a  
 media type: MP4  
 resolution:	1920×1080  
 duration:	0:24  
@@ -396,7 +410,7 @@ duration:
 url:  
 permissions:  
 
-(2)
+2.
 
 ---
 
