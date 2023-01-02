@@ -54,30 +54,35 @@ url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creat
 > Gust’s gale, winding wings
 
 (1)
+
 (2) 
 
 
 > Autumn’s August, Virgo’s Spring
 
 (1)
+
 (2)
 
 
 > Chance’s choice, Error’s end
 
 (1)
+
 (2)
 
 
 > Random’s riddle, Poem portends
-> 
+
 (1)
+
 (2)
 
 
 > Pastoral Polis, shepard’s sheep
 
 (1)
+
 (2)
 
 
@@ -92,21 +97,41 @@ url: <https://www.storyblocks.com/video/stock/attractive-cute-redhead-european-w
     
 > resonant ray, astral ash
 
+(1)
+
+(2)
+
 
 > Zodiac’s zenith, civil clash
+
+(1)
+
+(2)
 
 
 > Telic test, Virgil’s vigil
 
+(1)
+
+(2)
 
 > Self’s sign, Saint’s sigil
 
+(1)
+
+(2)
 
 > Kairos’ corner, context’s cause
 
+(1)
+
+(2)
 
 > misfortune’s fortune, drama’s draw
 
+(1)
+
+(2)
 
 > Guiding light, sound’s sword
 (1) (SB) Soft Dreamy Clouds
@@ -120,125 +145,246 @@ url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-th
 
 > solitude’s signal, dancing door
 
+(1)
+
+(2)
 
 > Garden’s gate, second sight
+
+(1)
+
+(2)
 
 
 > Sylvan seer, Freedom’s flight
 
+(1)
+
+(2)
 
 > Ion’s impulse, fate’s fork
 
+(1)
+
+(2)
 
 > retro causes, absence’s work
 
+(1)
+
+(2)
 
 > fractal’s flame, Phoenix feather
 
+(1)
+
+(2)
 
 > Logos logic, density tether
 
+(1)
 
+(2)
 
 (short pause)
 
-
-
 > Brave’s beauty, Honor’s heart
 
+(1)
+
+(2)
 
 > stage’s setup, player’s part
 
+(1)
+
+(2)
 
 > Demon’s deceit, Cherub’s songs
+
+(1)
+
+(2)
 
 
 > discernment’s chaos, Right’s wrongs
 
+(1)
+
+(2)
+
 
 > Orpheus’ hymn, the Devil’s spear
+
+(1)
+
+(2)
 
 
 > State’s strife, furor’s fear
 
+(1)
+
+(2)
+
 
 > Aura’s ambience, charisma’s charm
+
+(1)
+
+(2)
 
 
 > Moon’s marvel, Sun’s farm
 
+(1)
+
+(2)
+
 
 > Wonder’s worry, Past’s pain
 
+(1)
+
+(2)
 
 > Present’s purpose, Design’s gain
 
+(1)
+
+(2)
 
 > recursive rhythm, return again
 
+(1)
+
+(2)
 
 > floral fortune, flower forward
 
+(1)
+
+(2)
 
 > Eden’s eternal, never certain
 
+(1)
+
+(2)
 
 > One’s law, summum bonum
 
+(1)
+
+(2)
 
 > Wisdom’s Way, the grasp of Grace
 
+(1)
+
+(2)
 
 > Trust’s fall, Moron’s mobs
 
+(1)
+
+(2)
 
 > Daemon that does warp my Will
 
+(1)
+
+(2)
 
 > release my soul or better still
 
+(1)
+
+(2)
 
 > venture out across the Land
 
+(1)
+
+(2)
 
 > usher forth Ascent of Man
 
+(1)
+
+(2)
 
 > Whisper courage in His ear
 
+(1)
+
+(2)
 
 > when his hypnog-self is near
 
+(1)
+
+(2)
 
 > Dream’s Vision, Insight’s End
 
+(1)
+
+(2)
 
 > bittersweet the Dao’s dance bend
 
+(1)
+
+(2)
 
 > “And I made a rural pen,
 
+(1)
+
+(2)
 
 > And I stained the water clear,”†
 
+(1)
+
+(2)
 
 > And I cried a Crystal Crown,
 
+(1)
+
+(2)
 
 > Ardour's Armour, Valence Valor!
 
+(1)
+
+(2)
 
 > Failure’s form, Greed’s name
 
+(1)
+
+(2)
 
 > Pride’s prince, Shiva’s flame
 
+(1)
+
+(2)
 
 > “Here be Dragons”, as they say
 
+(1)
+
+(2)
 
 > Babel’s Tower begins to sway
 
+(1)
+
+(2)
 
 
 
