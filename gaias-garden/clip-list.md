@@ -378,23 +378,23 @@ duration:
 url:
 permissions:
 
-2. Liquid Yellow Paint
-service: pixabay
-media type: MP4
-resolution:	1920×1080
-duration:	0:24
-url: <https://pixabay.com/videos/yellow-liquid-paint-space-27803/>
-permissions: Pixabay License, "Free to use under the Pixabay license. No attribution required."
+2. Liquid Yellow Paint  
+service: pixabay  
+media type: MP4  
+resolution:	1920×1080  
+duration:	0:24  
+url: <https://pixabay.com/videos/yellow-liquid-paint-space-27803/>  
+permissions: Pixabay License, "Free to use under the Pixabay license. No attribution required."  
 
 > “Here be Dragons”, as they say
 
 1.
-service:
-media type:
-resolution:
-duration:
-url:
-permissions:
+service:  
+media type:  
+resolution:  
+duration:  
+url:  
+permissions:  
 
 (2)
 
