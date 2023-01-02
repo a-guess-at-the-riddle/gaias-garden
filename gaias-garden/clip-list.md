@@ -33,7 +33,7 @@ url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creat
 (1) Spaceview of Earth:
   (a) https://pixabay.com/videos/earth-universe-space-planet-world-732/;
   (b) https://images.nasa.gov/details-Earth%20Views
-(2) Mud macro shot \[SB\]
+(2) Mud macro shot (SB)
     Asset ID: SBV-337534175
     url: <[https://www.storyblocks.com/video/stock/close-up-shot-of-mud-volcano-gas-eruption-in-hot-summer-day-slow-motion-shot-rpf-53mbbjzuzso80]>
 
@@ -70,6 +70,7 @@ url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creat
 
 
 > Random’s riddle, Poem portends
+> 
 (1)
 (2)
 
@@ -93,6 +94,7 @@ url: <https://www.storyblocks.com/video/stock/attractive-cute-redhead-european-w
 
 
 > Zodiac’s zenith, civil clash
+
 
 > Telic test, Virgil’s vigil
 
@@ -145,95 +147,97 @@ url: <https://www.storyblocks.com/video/stock/a-close-up-view-of-the-sword-in-th
 > Brave’s beauty, Honor’s heart
 
 
-stage’s setup, player’s part
+> stage’s setup, player’s part
 
 
-Demon’s deceit, Cherub’s songs
+> Demon’s deceit, Cherub’s songs
 
 
-discernment’s chaos, Right’s wrongs
+> discernment’s chaos, Right’s wrongs
 
 
-Orpheus’ hymn, the Devil’s spear
+> Orpheus’ hymn, the Devil’s spear
 
 
-State’s strife, furor’s fear
+> State’s strife, furor’s fear
 
 
-Aura’s ambience, charisma’s charm
+> Aura’s ambience, charisma’s charm
 
 
-Moon’s marvel, Sun’s farm
+> Moon’s marvel, Sun’s farm
 
 
-Wonder’s worry, Past’s pain
+> Wonder’s worry, Past’s pain
 
 
-Present’s purpose, Design’s gain
+> Present’s purpose, Design’s gain
 
 
-recursive rhythm, return again
+> recursive rhythm, return again
 
 
-floral fortune, flower forward
+> floral fortune, flower forward
 
 
-Eden’s eternal, never certain
+> Eden’s eternal, never certain
 
 
-One’s law, summum bonum
+> One’s law, summum bonum
 
 
-Wisdom’s Way, the grasp of Grace
+> Wisdom’s Way, the grasp of Grace
 
 
-Trust’s fall, Moron’s mobs
+> Trust’s fall, Moron’s mobs
 
 
-Daemon that does warp my Will
+> Daemon that does warp my Will
 
 
-release my soul or better still
+> release my soul or better still
 
 
-venture out across the Land
+> venture out across the Land
 
 
-usher forth Ascent of Man
+> usher forth Ascent of Man
 
 
-Whisper courage in His ear
+> Whisper courage in His ear
 
 
-when his hypnog-self is near
+> when his hypnog-self is near
 
 
-Dream’s Vision, Insight’s End
+> Dream’s Vision, Insight’s End
 
 
-bittersweet the Dao’s dance bend
-
-“And I made a rural pen,
+> bittersweet the Dao’s dance bend
 
 
-And I stained the water clear,”†
+> “And I made a rural pen,
 
 
-And I cried a Crystal Crown,
+> And I stained the water clear,”†
 
 
-Ardour's Armour, Valence Valor!
-
-Failure’s form, Greed’s name
+> And I cried a Crystal Crown,
 
 
-Pride’s prince, Shiva’s flame
+> Ardour's Armour, Valence Valor!
 
 
-“Here be Dragons”, as they say
+> Failure’s form, Greed’s name
 
 
-Babel’s Tower begins to sway
+> Pride’s prince, Shiva’s flame
+
+
+> “Here be Dragons”, as they say
+
+
+> Babel’s Tower begins to sway
 
 
 
@@ -242,7 +246,7 @@ Babel’s Tower begins to sway
 
 Film/TV Shots:
 
-The THeory of Everything Fireworks scene;
+The Theory of Everything Fireworks scene;
 Hamlet's father's ghost? from Russian 60s version;
 2001 Space Odyssey: wormhole scene;
 Dr Stangelove round room meeting scene;
