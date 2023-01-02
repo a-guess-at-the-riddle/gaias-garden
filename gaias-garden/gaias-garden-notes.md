@@ -19,6 +19,8 @@ Need to determine if two shots per line is too fast or not.
 #### Voices.com
 - Zach Hoffman <https://www.voices.com/profile/zachhoffmanvoice>
 
+### Crazy Alternative (use voice synth?)
+- Jacob Bronowski?
 
 ## 3. Animation
 #### A. Die BlumenUhr, Linnaeus' flower clock (1751)
