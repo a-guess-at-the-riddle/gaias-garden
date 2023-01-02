@@ -19,7 +19,7 @@ Need to determine if two shots per line is too fast or not.
 #### Voices.com
 - Zach Hoffman <https://www.voices.com/profile/zachhoffmanvoice>
 
-### Crazy Alternative (use voice synth?)
+**Crazy Alternative** (use voice synthesizer?)
 - Jacob Bronowski?
 
 ## 3. Animation
@@ -29,7 +29,7 @@ from <https://academic.oup.com/plphys/article/121/1/9/6085529>
 
 Original drawing by Ursula Schleicher-Benz. From Lindauer Bilderbogen no. 5, edited by Friedrich Boer. Jan Thorbecke Verlag. Sigmaringen, West Germany.
 
-An animation of illustration of Linneaus' Flowerclock (or a similar flowerclocks) which transitions clockwise from B&W into color while flowers bloom. Concerning the actual original illustration, the copywrite is difficult to understand. The original source of the image being from what I think is a Swedish journal. Here is the citation: *Lindauer Bilderbogenno.5, ed. Friedrich Boer (Jan ThorbeckeVerlag)*.
+An animation of illustration of Linneaus' Flowerclock (or a similar flowerclocks) which transitions clockwise from B&W into color while flowers bloom. Concerning the actual original illustration, the copywrite is difficult to understand. The original source of the image being from what I think is a very old Swedish journal. Here is the citation for which I can't find the text: *Lindauer Bilderbogenno.5, ed. Friedrich Boer (Jan ThorbeckeVerlag)*.
 
 If one want some ideas you can upload the iamge to the generate AI, DALL-E and it will generate some variations. THe flower should bloom starting close the the outside and bloom inward toward the center.
 
@@ -42,7 +42,7 @@ Permissions: Public Domain: "This image is in the public domain.", <https://www.
 Create a glimmering fire reflection on the medalion.
 
 #### C. Tree icon from M. Pageaeu's *The Languge of Creation* 
-
+animation of flow (thermal?) similar to overhead projector video feedback of pythagorean tree?
 
 #### Possible freelance graphical/animation artists:
 **Alegria**: https://dribbble.com/Alegria/about
@@ -53,6 +53,8 @@ Create a glimmering fire reflection on the medalion.
 
 ## 4. Media
 
-**font**: Computer Modern?
+**font**: Computer Modern
 
-***See other file for stock shotlist***
+---
+
+*See other file for stock shotlist*
