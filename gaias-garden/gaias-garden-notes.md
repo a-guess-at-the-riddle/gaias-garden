@@ -53,4 +53,6 @@ Create a glimmering fire reflection on the medalion.
 
 ## 4. Media
 
+**font**: Computer Modern?
+
 ***See other file for stock shotlist***
