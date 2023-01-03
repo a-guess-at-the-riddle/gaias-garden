@@ -432,9 +432,29 @@ permissions:
 
 
 
-Film/TV Shots:
+Film/TV Shots to think about:
 
-The Theory of Everything Fireworks scene;
+The Theory of Everything; Fireworks scene;
+The Fountain
+Samsara
+Barry Lyndon
+Legend
+Blade Runner
+Solaris
+Star Wars
+Attonement
+La La Land
+Man of Steel? Superman Justice League
+300
+Dunkirk!
+The Ring (lighthouse shot)
+The Great Gatbsy
+Fight Club final scene
+Macbeth (2015)
+American Beauty (1999)
+Dark Knight
+Lord of the Rings
+V for Vendetta (2005); dominoes
 Hamlet's father's ghost? from Russian 60s version;
 2001 Space Odyssey: wormhole scene;
 Dr Stangelove round room meeting scene;
@@ -443,9 +463,13 @@ Sword of Doom walking down path scene;
 Seventh Seal chess scene;
 Blade Runner crying in the rain;
 Phantom Thread;
-Makato Shinkai, Garden of Rain Tree over pond shot (from <https://www.youtube.com/watch?v=LEfMCSzF7FM>);
+Makato Shinkai, Garden of Rain Tree over pond shot;
 Kenneth Clark's Civilisation;
 Jacob Bronowski's Ascent of Man;
+
+https://www.youtube.com/watch?v=0v6R4HgpLI0
+
+Famous classic paintings, photographs, etc:
 
 
 #### math animations (Wikimedia Commons)
