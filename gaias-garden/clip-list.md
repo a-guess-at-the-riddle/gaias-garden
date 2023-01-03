@@ -430,8 +430,6 @@ permissions:
 
 
 
-
-
 Film/TV Shots to think about:
 
 The Theory of Everything; Fireworks scene;
