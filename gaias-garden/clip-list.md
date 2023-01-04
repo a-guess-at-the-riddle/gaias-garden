@@ -17,14 +17,27 @@ Need to add some seconds to beginning for quotation & graphic.
 (opening shot drone sand)
 > “How this creative energy could itself have been born is of all mysteries the most incomprehensible. It is the inevitable impossibility inherent in any speculation which would develop everything out of nothing.” — Benjamin Peirce, Ideality in the Physical Sciences (1881)
 
-(0s — 13s) (music)
+> (0s — 13s) (music)
+> 
+service: Shutterstock  
+asset id: 1054478981  
+contributor: Lucky with Light
+media type: 
+resolution:   
+duration:   
+url:  
+permissions:  
 
 > Iambs iambs, beating blood
 
 (1) 
 (2) (SB) red liquid water
 Asset ID: SBV-319343250
-url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creating-liquid-shapes-s9fx-bz3lfjakv4cor>
+media type: MP4  
+resolution: 1280×720  
+duration: 0:20  
+url: <https://pixabay.com/videos/earth-universe-space-planet-world-732/>  
+permissions: Pixabay License. Free to use under the Pixabay license. No attribution required  
 
 
 
@@ -33,6 +46,7 @@ url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creat
 1. View of Earth from Space  
 service: pixabay  
 asset id: n/a
+contributor:
 media type: MP4  
 resolution: 1280×720  
 duration: 0:20  
@@ -434,6 +448,8 @@ permissions:
 Film/TV Shots to think about:
 
 The Theory of Everything; Fireworks scene;
+Shakespeare in Love (1998)
+Elisabeth (1999)
 The Fountain
 Samsara
 Barry Lyndon
