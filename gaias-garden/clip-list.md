@@ -27,6 +27,7 @@ Asset ID: SBV-319343250
 url: <https://www.storyblocks.com/video/stock/red-paints-as-blood-in-water-creating-liquid-shapes-s9fx-bz3lfjakv4cor>
 
 
+
 > Epic Earth, mineral mud
 
 1. View of Earth from Space  
