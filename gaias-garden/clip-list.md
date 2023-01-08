@@ -451,12 +451,13 @@ The Theory of Everything; Fireworks scene;
 Shakespeare in Love (1998)
 Elisabeth (1999)
 The Fountain
+Dead Poets Society, O Captain! My Captain" scene
 Samsara
 Barry Lyndon
 Legend
 Blade Runner
 Solaris
-Star Wars
+Star Wars, "I am your father" scene
 Attonement
 La La Land
 Man of Steel? Superman Justice League
